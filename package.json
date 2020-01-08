@@ -1,0 +1,24 @@
+{
+  "name": "typescript-starter",
+  "version": "1.0.0",
+  "description": "typescript base project",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilnygaardfrisk/typescript-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilnygaardfrisk/typescript-starter/issues"
+  },
+  "homepage": "https://github.com/emilnygaardfrisk/typescript-starter#readme",
+  "devDependencies": {
+    "@types/node": "^13.1.4",
+    "typescript": "^3.7.4"
+  }
+}
